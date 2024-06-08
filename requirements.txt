@@ -1,2 +1,2 @@
-MarkupSafe==1.1.1
+MarkupSafe
 pytz==2019.3
